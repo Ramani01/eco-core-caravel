@@ -67,7 +67,7 @@ A successful Caravel project requires a specific directory layout for the automa
 Create a new repository based on the `caravel_user_project` template and clone it to your local machine:
 
 ```bash
-git clone <your-github-repo-URL>
+git clone https://github.com/Ramani01/eco-core-caravel.git
 pip install chipfoundry-cli
 cd <project_name>
 ```
